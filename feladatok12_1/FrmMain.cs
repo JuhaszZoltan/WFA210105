@@ -16,5 +16,10 @@ namespace feladatok12_1
         {
             InitializeComponent();
         }
+
+        private void HelloWorldMB(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World!");
+        }
     }
 }
