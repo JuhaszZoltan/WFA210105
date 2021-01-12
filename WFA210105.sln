@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Spec", "Spec", "{9710C3AA-0
 		C:\Users\juhas\Desktop\feladatok13.pdf = C:\Users\juhas\Desktop\feladatok13.pdf
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_3", "feladatok12_3\feladatok12_3.csproj", "{70B344C1-7460-4A6E-93CA-47A0968079DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_4", "feladatok12_4\feladatok12_4.csproj", "{464A865A-74C7-4639-9D20-501A496575ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{29C4DD42-3E9D-41E1-BA17-883C54047C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C4DD42-3E9D-41E1-BA17-883C54047C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C4DD42-3E9D-41E1-BA17-883C54047C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B344C1-7460-4A6E-93CA-47A0968079DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B344C1-7460-4A6E-93CA-47A0968079DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B344C1-7460-4A6E-93CA-47A0968079DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B344C1-7460-4A6E-93CA-47A0968079DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464A865A-74C7-4639-9D20-501A496575ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464A865A-74C7-4639-9D20-501A496575ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464A865A-74C7-4639-9D20-501A496575ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464A865A-74C7-4639-9D20-501A496575ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
