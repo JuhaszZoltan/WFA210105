@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ED72507B-0764-4B91-9A2E-1AD34CCE37D2}</ProjectGuid>
+    <ProjectGuid>{F2D4463B-4AC3-4067-8392-B36A6A61B55D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>feladatok12_1</RootNamespace>
-    <AssemblyName>feladatok12_1</AssemblyName>
+    <RootNamespace>feladatok12_5</RootNamespace>
+    <AssemblyName>feladatok12_5</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -75,14 +75,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="spec\feladatok12.pdf" />
-    <None Include="spec\feladatok13.pdf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="res\hw.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
