@@ -119,6 +119,8 @@ namespace feladatok12_11
             this.Controls.Add(this.txtNev);
             this.Name = "FrmMain";
             this.Text = "Dolgozatok";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
+            this.Load += new System.EventHandler(this.FrmMain_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
